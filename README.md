@@ -6,10 +6,16 @@ A clean, modern iOS app for tracking trips, miles, speed, maintenance, and more 
 ## 📱 App Preview
 
 ### **Dashboard**
-<img src="Screenshots/dashboard.png" width="350"/>
+<img src="IMG_0837.png" width="350"/>
+
+### **Trip Logs**
+<img src="IMG_0839.png" width="350"/>
+
+### ***Maintenance***
+<img src="IMG_0838.png" width="350">
 
 ### **Settings**
-<img src="Screenshots/settings.png" width="350"/>
+<img src="IMG_0840.png" width="350"/>
 
 
 ---
